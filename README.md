@@ -13,4 +13,4 @@
 
     
 
-![Madhav Store dashboard](https://github.com/user-attachments/assets/7d05e4f2-9df9-4bcc-9c68-70efac4daa96)
+![Ecommerce Sales Dashboard](https://github.com/user-attachments/assets/1daf9179-08df-4f74-be18-c5452793d309)
